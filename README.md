@@ -17,7 +17,7 @@ the camera and the face is well lit.
 
 ### Installing
 
-* To download the program, download BlinkDetection.py at [https://github.com/tylermu/BlinkDetection/blob/main/BlinkDetection.py](https://github.com/TheDoff/BlinkDetection/blob/main/BlinkDetection.py)
+* To download the program, download BlinkDetection.py at [https://github.com/TheDoff/BlinkDetection/blob/main/BlinkDetection.py](https://github.com/TheDoff/BlinkDetection/blob/main/BlinkDetection.py)
 * You will also need a .dat file containing the map for the facial landmarks which can be downloaded here: https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
 
 ### Executing program
